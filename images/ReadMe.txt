@@ -1,0 +1,1 @@
+This Folder serves as a collection of Images used throughout this Project.
